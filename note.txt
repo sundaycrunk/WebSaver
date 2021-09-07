@@ -1,0 +1,1 @@
+this is dope because it enables you to use JavaScript to inject into a mac screensaver.
